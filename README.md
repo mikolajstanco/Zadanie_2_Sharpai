@@ -45,3 +45,12 @@ Skrypt został zaprojektowany tak, żeby przyjmował wszystkie poufane informacj
 Skrypt należy wywołać z poziomu terminala PowerShell, przekazując wymagane parametry uwierzytelniające.
 
 `.\AzureStorageAccount.ps1 -TenantId "TWÓJ_TENANT_ID" -ClientId "TWÓJ_CLIENT_ID" -ClientSecret "TWÓJ_CLIENT_SECRET"`
+
+---
+
+## Dowód działania 
+<img width="1061" height="1213" alt="image" src="https://github.com/user-attachments/assets/d11a071a-3449-429a-8447-cdec84f1a3dc" />
+
+<img width="1891" height="327" alt="image" src="https://github.com/user-attachments/assets/f5b2bfd2-d462-4c49-8d23-3c7ca204579d" />
+
+
